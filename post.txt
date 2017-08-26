@@ -1,0 +1,4 @@
+Points:
+  1. What is a genetic algorithm
+  2. Modeling a cube
+  3. Fitness algorithm
